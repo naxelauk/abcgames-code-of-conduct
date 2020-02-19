@@ -4,7 +4,7 @@ ABC Games is a community event held approximately monthly in London. The main ac
 
 We value the participation of each member of the ABC Games community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout our events, whether officially run by the ABC active organisers or not.
 
-To make clear what is expected, all staff, attendees, organizers, and volunteers at any ABC Games event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, organisers, and volunteers at any ABC Games event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event.
 
 ## Our Standards
 
@@ -20,9 +20,9 @@ Examples of behaviour that contributes to creating a positive environment includ
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behaviour by participants include:
 
-- Harassment of conference participants in any form
+- Harassment of event participants in any form
 - Deliberate intimidation, stalking, or following
 - Violent threats or language directed against another person
 - ~~Sexual language and imagery in any conference venue, including talks~~
@@ -34,11 +34,11 @@ Examples of unacceptable behavior by participants include:
 - Sustained disruption games, such as caused by excessive noise
 ~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~
 
-(The two items above are struck out because we do allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
+(The two items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
 
 Participants asked to stop any inappropriate behaviour are expected to comply immediately.
 
-If a participant engages in behaviour that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in behaviour that violates this code of conduct, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
@@ -100,5 +100,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU4NTgzODksMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbNjA2MTQyMjAyLDEwMDc4ODAzMjVdfQ==
 -->
