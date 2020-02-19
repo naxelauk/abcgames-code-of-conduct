@@ -2,13 +2,13 @@
 
 ABC Games is a community event held approximately monthly in London. The main activity at our events are board games supplied and played by attendees. The attendees are from the London FL community.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by the Python Software Foundation or not.
+We value the participation of each member of the FL community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout our events, whether officially run by the ABC active organisers or not.
 
-To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, organizers, and volunteers at any ABC Games event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 ## Our Standards
 
-PyCon is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+ABC Games is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -99,5 +99,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NTU2OTQyLDEwMDc4ODAzMjVdfQ==
+eyJoaXN0b3J5IjpbLTg3OTYwOTA5OCwxMDA3ODgwMzI1XX0=
 -->
