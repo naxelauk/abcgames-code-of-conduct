@@ -13,7 +13,7 @@ ABC Games is dedicated to providing a positive experience for everyone, regardle
 Examples of behaviour that contributes to creating a positive environment include:
 
 - Being kind to others
-- Behaving professionally
+- ~~Behaving professionally~~
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
@@ -34,7 +34,7 @@ Examples of unacceptable behaviour by participants include:
 - Sustained disruption games, such as caused by excessive noise
 ~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~
 
-(The two items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
+(Several items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and the recipients consent to it. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
 
 It should be noted that physical contact or sexual attention is allowable behaviour but only when not unwelcome. If there is any doubt then you should determine this first. 
 
@@ -89,6 +89,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTk0NDkwNywyMDI4NDI5NzIzLDEwMD
+eyJoaXN0b3J5IjpbMTE3MTgzMTMxOCwyMDI4NDI5NzIzLDEwMD
 c4ODAzMjVdfQ==
 -->
