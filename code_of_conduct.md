@@ -52,13 +52,15 @@ For the purpose of clarification model weapons which are part of a game are allo
 
 ## Scope
 
-All attendees are subject to the Code of Conduct. This includes PyCon US staff and volunteers, as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events.
+All attendees are subject to the Code of Conduct. This includes ABC Games organisers and volunteers, ~~as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events~~.
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+~~Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.~~
+
+Text struck out was relevant for the original text as a professional conference but is not necessary for us. 
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct during a PyCon event, or have any other concerns, please contact a member of the event staff immediately.
+If you believe that someone is violating the code of conduct during an ABC Games event, or have any other concerns, please contact an organiser immediately. One or two of 
 
 - **PyCon Incident Report Hotline**
     - Automated dialer of the individuals listed below
@@ -102,5 +104,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzY2MDEzNSwxMDA3ODgwMzI1XX0=
+eyJoaXN0b3J5IjpbLTExODgzMDY4MzEsMTAwNzg4MDMyNV19
 -->
