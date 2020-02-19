@@ -73,7 +73,7 @@ If the event has finished and it is not possible to speak to an organiser in per
 
 ## License
 
-This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
+This Code of Conduct was forked from the PyCon US Code of Conduct which itself was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
 
 Additional language was added by [Otter Tech](https://otter.technology/) from:
 
@@ -85,7 +85,7 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
-The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI3Njg0NTMsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbMjAyODQyOTcyMywxMDA3ODgwMzI1XX0=
 -->
