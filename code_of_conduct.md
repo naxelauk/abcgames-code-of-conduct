@@ -36,6 +36,8 @@ Examples of unacceptable behaviour by participants include:
 
 (The two items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
 
+It should be noted that physical contact or sexual attention 
+
 Participants asked to stop any inappropriate behaviour are expected to comply immediately.
 
 If a participant engages in behaviour that violates this code of conduct, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the event space. We do not currently charge for event attendance but should one have been charged there would be no refund.
@@ -87,5 +89,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODQyOTcyMywxMDA3ODgwMzI1XX0=
+eyJoaXN0b3J5IjpbMzEyNDIzMjU1LDIwMjg0Mjk3MjMsMTAwNz
+g4MDMyNV19
 -->
