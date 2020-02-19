@@ -31,9 +31,10 @@ Examples of unacceptable behavior by participants include:
 - Excessive swearing
 - Unwelcome sexual attention or advances
 - Unwelcome physical contact
-- Sustained disruption of talks or other events
-- Other conduct that is inappropriate for a professional audience including people of many different backgrounds
+- Sustained disruption games, such as caused by excessive noise
+~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~
 
+(The two items above are struck out because we do allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of 
 
 Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
@@ -99,5 +100,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYyNDA2NTMsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbLTE0MDQ5OTM0MjEsMTAwNzg4MDMyNV19
 -->
