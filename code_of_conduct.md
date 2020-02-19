@@ -1,7 +1,6 @@
 # Code of Conduct
 
-PyCon UABC Games is a community conference intended for networking and collaboration in the developerevent held 
- community.
+ABC Games is a community event held approximately monthly in London. The main activity at our events are board games supplied and played by attendees. The attendees are from the London FL community.
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by the Python Software Foundation or not.
 
@@ -100,5 +99,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU0ODkwMjQsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbOTc1NTU2OTQyLDEwMDc4ODAzMjVdfQ==
 -->
