@@ -47,12 +47,16 @@ Thank you for helping make this a welcoming, friendly event for all.
 ### Age Policy
 
 Attendees are expected to be above the age of consent. 
-However since most events take place in venues serving alcohol attendees are also expected to be of an age which allows them to buy alcohol. 
 
-If this is not the case then please contact the organisers in advance to discuss a special case. 
+However since most events take place in venues serving alcohol attendees are **also** expected to be of an age which allows them to buy alcohol. 
 
-Although the organisers currently do not ask d
+If this is not the case then please contact the organisers in advance to discuss their special case. 
+
+Although the organisers currently do not ask for ID or proof of age the venue might do so, and attendees should be prepared to prove they can buy alcohol. 
+
 ### Weapons Policy
+
+DRAFT!
 
 No weapons are allowed at our events, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
@@ -97,6 +101,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTMzNDgwLC0xMzcwMTk1OTc1LDIwMj
-g0Mjk3MjMsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbLTIwNjA0NjU5MTIsLTEzNzAxOTU5NzUsMj
+AyODQyOTcyMywxMDA3ODgwMzI1XX0=
 -->
