@@ -34,11 +34,11 @@ Examples of unacceptable behavior by participants include:
 - Sustained disruption games, such as caused by excessive noise
 ~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~
 
-(The two items above are struck out because we do allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of 
+(The two items above are struck out because we do allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
 
-Participants asked to stop any inappropriate behavior are expected to comply immediately.
+Participants asked to stop any inappropriate behaviour are expected to comply immediately.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in behaviour that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
@@ -100,5 +100,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ5OTM0MjEsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbLTE4MzE0NjE2MzcsMTAwNzg4MDMyNV19
 -->
