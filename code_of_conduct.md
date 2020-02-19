@@ -8,9 +8,9 @@ To make clear what is expected, all staff, attendees, organizers, and volunteers
 
 ## Our Standards
 
-ABC Games is dedicated to providing a positive conference experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+ABC Games is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-Examples of behavior that contributes to creating a positive environment include:
+Examples of behaviour that contributes to creating a positive environment include:
 
 - Being kind to others
 - Behaving professionally
@@ -25,7 +25,7 @@ Examples of unacceptable behavior by participants include:
 - Harassment of conference participants in any form
 - Deliberate intimidation, stalking, or following
 - Violent threats or language directed against another person
-- Sexual language and imagery in any conference venue, including talks
+- ~~Sexual language and imagery in any conference venue, including talks~~
 - Insults or put downs
 - Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
 - Excessive swearing
@@ -99,5 +99,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTYwOTA5OCwxMDA3ODgwMzI1XX0=
+eyJoaXN0b3J5IjpbLTE0ODYyNDA2NTMsMTAwNzg4MDMyNV19
 -->
