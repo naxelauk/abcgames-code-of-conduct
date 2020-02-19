@@ -34,7 +34,9 @@ Examples of unacceptable behaviour by participants include:
 - Sustained disruption games, such as caused by excessive noise
 ~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~
 
-(Several items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and the recipients consent to it. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
+(Several items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and the recipients consent to it. 
+
+It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
 
 It should be noted that physical contact or sexual attention is allowable behaviour but only when not unwelcome. If there is any doubt then you should determine this first. 
 
@@ -64,7 +66,7 @@ Attendees are further expected to comply with all ~~state and local~~ laws on th
 
 For the purpose of clarification model weapons which are part of a game are allowed for the playing of that game. 
 
-*This Weapons Policy would therefore include almost all blades, crops, and whips.* 
+*This Weapons Policy would therefore ban almost all blades, crops, and whips. Is that appropriate?* 
 
 ## Scope
 
@@ -85,7 +87,7 @@ If the event has finished and it is not possible to speak to an organiser in per
 ## Procedure for Handling Incidents
 
 [Attendee Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/Attendee Procedure for incident handling.md)
-[Staff Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/)
+[Staff Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/Staff Procedure for incident handling.md)
 
 ## License
 
@@ -103,6 +105,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI2MDAxNjAsNzU3OTU2NzI2LC0xMz
-cwMTk1OTc1LDIwMjg0Mjk3MjMsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbOTQ2OTIyOTYsNzU3OTU2NzI2LC0xMzcwMT
+k1OTc1LDIwMjg0Mjk3MjMsMTAwNzg4MDMyNV19
 -->
