@@ -36,7 +36,7 @@ Examples of unacceptable behaviour by participants include:
 
 (The two items above are struck out because they did not seem appropriate for our community. We **do** allow sexual language and imagery so long as it is appropriate and consensual. It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution)
 
-It should be noted that physical contact or sexual attention 
+It should be noted that physical contact or sexual attention is allowable behaviour but only when not unwelcome. If there is any doubt then you should determine this first. 
 
 Participants asked to stop any inappropriate behaviour are expected to comply immediately.
 
@@ -89,6 +89,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNDIzMjU1LDIwMjg0Mjk3MjMsMTAwNz
-g4MDMyNV19
+eyJoaXN0b3J5IjpbMTcxNTk0NDkwNywyMDI4NDI5NzIzLDEwMD
+c4ODAzMjVdfQ==
 -->
