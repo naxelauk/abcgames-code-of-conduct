@@ -67,6 +67,5 @@ If an incident responder has a conflict of interest for a report, they will recu
 
 This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0) and has been updated by [Otter Tech](https://otter.technology/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDE5MjgzNSw2ODgxMjU0LDE2NTAyNT
-Y2OTQsNjcyNzMwMTMxXX0=
+eyJoaXN0b3J5IjpbMTQxNDE5MjgzNV19
 -->
