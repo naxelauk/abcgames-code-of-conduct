@@ -84,8 +84,8 @@ If the event has finished and it is not possible to speak to an organiser in per
 
 ## Procedure for Handling Incidents
 
-[Attendee Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/attendee-procedure/)
-[Staff Procedure for incident handling](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/)
+[Attendee Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/Attendee Procedure for incident handling.md)
+[Staff Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/)
 
 ## License
 
@@ -103,6 +103,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3OTU2NzI2LC0xMzcwMTk1OTc1LDIwMj
-g0Mjk3MjMsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbLTIxMzI2MDAxNjAsNzU3OTU2NzI2LC0xMz
+cwMTk1OTc1LDIwMjg0Mjk3MjMsMTAwNzg4MDMyNV19
 -->
