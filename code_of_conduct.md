@@ -40,10 +40,13 @@ It should be noted that physical contact or sexual attention is allowable behavi
 
 Participants asked to stop any inappropriate behaviour are expected to comply immediately.
 
-If a participant engages in behaviour that violates this code of conduct, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the event space. We do not currently charge for event attendance but should one have been charged there would be no refund.
+If a participant engages in behaviour that violates this code of conduct, the event organisers may take any action they deem appropriate, including warning the offender or expulsion from the event space. We do not currently charge for event attendance but should one have been charged there would be no refund.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
+### Age Policy
+
+Attendees are expected to be above the age of consent. The venue 
 ### Weapons Policy
 
 No weapons are allowed at our events, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
@@ -89,6 +92,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTgzMTMxOCwyMDI4NDI5NzIzLDEwMD
-c4ODAzMjVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzAxOTU5NzUsMjAyODQyOTcyMywxMD
+A3ODgwMzI1XX0=
 -->
