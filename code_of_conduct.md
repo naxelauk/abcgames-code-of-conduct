@@ -60,26 +60,9 @@ Text struck out was relevant for the original text as a professional conference 
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct during an ABC Games event, or have any other concerns, please contact an organiser immediately. One or two of 
+If you believe that someone is violating the code of conduct during an ABC Games event, or have any other concerns, please contact an organiser immediately. One or two of these people should have introduced themselves to you on arrival. If you are not aware of who these people are then please ask a fellow attendee. 
 
-- **PyCon Incident Report Hotline**
-    - Automated dialer of the individuals listed below
-    - +1 (216) 208 7987 (Telephone or SMS)
-    - <pycon-us-report@python.org>
 
-In case of a conflict of interest, you can individually contact:
-
-  * Sage Sharp
-      * PyCon US - Incident Responder
-      * <report@otter.technology>
-      * +1 (503) 384 8831
-  * Ewa Jodlowska
-      * Python Software Foundation - Director of Operations
-      * <ewa@python.org>
-  * Ernest W. Durbin III
-      * PyCon US - Conference Chair
-      * <ernest@python.org>
-      * +1 (216) 202 4393
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the conference. We value your attendance.
 
@@ -104,5 +87,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgzMDY4MzEsMTAwNzg4MDMyNV19
+eyJoaXN0b3J5IjpbLTE4MTA0ODAzNzgsMTAwNzg4MDMyNV19
 -->
