@@ -8,27 +8,29 @@ If you believe someone has violated the [ABC Games Code of Conduct](https://gith
 
 During the event you can make a report to one of the event organisers. We cannot guarantee to be able to respond to emails, FL messages, phone calls or SMS texts during the event.
 
-In the event of a conflict of interest, you may directly contact any of the lead incident responders:
+In the event of a conflict of interest, you may directly contact any of the current event organisers.
+
+*TODO: Clarify this*
 
 
 ## Report Data
 
-If you make a report via email or phone, please include:
+If you make a report via email, message or phone, please include:
 
 * Your contact info (so we can get in touch with you if we need to follow up)
 * Date and time of the incident
 * Location of incident
 * Whether the incident is ongoing
 * Description of the incident
-* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number
+* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, ~~identifying badge information such as company name, ribbons, or badge number~~
 * Additional circumstances surrounding the incident
 * Other people involved in or witnesses to the incident and their contact information or description
 
 ## Confidentiality
 
-**All reports will be kept confidential**. When we discuss incidents with people who are reported, we will anonymize details as much as we can to protect reporter privacy.
+**All reports will be kept confidential**. When we discuss incidents with people who are reported, we will anonymise details as much as we can to protect reporter privacy.
 
-However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
+However, some incidents happen in one-on-one interactions, and even if the details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
 
 In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -64,5 +66,5 @@ Should two out of the three lead incident responders need to recuse themselves, 
 
 This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0) and has been updated by [Otter Tech](https://otter.technology/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIwMzUxNTgsNjcyNzMwMTMxXX0=
+eyJoaXN0b3J5IjpbMTY1MDI1NjY5NCw2NzI3MzAxMzFdfQ==
 -->
