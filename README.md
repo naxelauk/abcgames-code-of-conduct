@@ -3,6 +3,10 @@ ABC Games Code of Conduct
 
 This repository holds the canonical version of the ABC Games Code of Conduct.
 
+ - A code of conduct for attendees and staff to read and follow
+ - A set of procedures for organising staff to read and follow
+ - A short procedure for attendees to follow if there are any p
+
 It was originally written for the software developers (namely PyCon US) and modified to suit our style of events..
 
 No changes are final until approved by the active Organiser Staff.
@@ -13,5 +17,5 @@ The behaviour online will probably have a different set of rules, but we may try
 
 It should be noted that games players are often known for examining rules in detail and finding loopholes. This should be discouraged and breaching the spirit of the code of conduct will be interpreted as breaching the rules themselves. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTU1MTgzXX0=
+eyJoaXN0b3J5IjpbMTQ5NDc4ODk2N119
 -->
