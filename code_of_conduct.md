@@ -56,13 +56,15 @@ Although the organisers currently do not ask for ID or proof of age the venue mi
 
 ### Weapons Policy
 
-DRAFT!
+DRAFT! TO BE DISCUSSED
 
 No weapons are allowed at our events, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
 Attendees are further expected to comply with all ~~state and local~~ laws on this matter.
 
 For the purpose of clarification model weapons which are part of a game are allowed for the playing of that game. 
+
+*This Weapons Policy would therefore include almost all blades, crops, and whips.* 
 
 ## Scope
 
@@ -101,6 +103,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The ABC Games Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA0NjU5MTIsLTEzNzAxOTU5NzUsMj
-AyODQyOTcyMywxMDA3ODgwMzI1XX0=
+eyJoaXN0b3J5IjpbNzU3OTU2NzI2LC0xMzcwMTk1OTc1LDIwMj
+g0Mjk3MjMsMTAwNzg4MDMyNV19
 -->
