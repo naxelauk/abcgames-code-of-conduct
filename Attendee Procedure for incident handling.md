@@ -30,21 +30,21 @@ If you make a report via email, message or phone, please include:
 
 **All reports will be kept confidential**. When we discuss incidents with people who are reported, we will anonymise details as much as we can to protect reporter privacy.
 
-However, some incidents happen in one-on-one interactions, and even if the details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our conference attendees safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
+However, some incidents happen in one-on-one interactions, and even if the details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our event attendees safe. In some cases, we can compile several anonymised reports into a pattern of behaviour, and take action on that pattern.
 
 In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 ## Report Handling Procedure
 
-When you make a report to an incident responder, they will gather information about the incident according to the PyCon US [Staff Procedure For Incident Response](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/).
+When you make a report to an incident responder (usually an event organiser), they will gather information about the incident according to the ABC Games [Staff Procedure For Incident Response](https://github.com/naxelauk/abcgames-code-of-conduct/Staff Procedure for incident handling.md).
 
-After an incident responder takes the report, they will immediately consult with the lead incident responders (Sage Sharp, Ewa Jodlowska, and Ernest W. Durbin III).
+After an incident responder takes the report, they will immediately consult with the other event organisers at the event.
 
-If the incident is ongoing and needs to be immediately addressed, any one of the lead incident responders may take appropriate action to ensure the safety of everyone involved.
+If the incident is ongoing and needs to be immediately addressed, any one of the event organisers may take appropriate action to ensure the safety of everyone involved.
 
-If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the PyCon US [Staff Procedure For Incident Response](https://us.pycon.org/2018/about/code-of-conduct/staff-procedure/).
+If the incident is less urgent, the current active event organisers will discuss the incident within 48 hours to determine an appropriate response. Examples of possible incident responses are outlined in the ABC Games [Staff Procedure For Incident Response](https://github.com/naxelauk/abcgames-code-of-conduct/Staff Procedure for incident handling.md).
 
-Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
+~~Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.~~
 
 ## Following Up With Reporters
 
@@ -66,5 +66,6 @@ Should two out of the three lead incident responders need to recuse themselves, 
 
 This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0) and has been updated by [Otter Tech](https://otter.technology/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDI1NjY5NCw2NzI3MzAxMzFdfQ==
+eyJoaXN0b3J5IjpbNjg4MTI1NCwxNjUwMjU2Njk0LDY3MjczMD
+EzMV19
 -->
