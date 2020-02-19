@@ -44,13 +44,15 @@ Thank you for helping make this a welcoming, friendly event for all.
 
 ### Weapons Policy
 
-No weapons are allowed at our, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
+No weapons are allowed at our events, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
-Attendees are further expected to comply with all state and local laws on this matter.
+Attendees are further expected to comply with all ~~state and local~~ laws on this matter.
+
+For the purpose of clarification model weapons which are part of a game are allowed for the playing of that game. 
 
 ## Scope
 
-All PyCon US attendees are subject to the Code of Conduct. This includes PyCon US staff and volunteers, as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events.
+All attendees are subject to the Code of Conduct. This includes PyCon US staff and volunteers, as well as attendees of the tutorials, workshops, summits, poster sessions, receptions, conference, sprints, and sponsored or unofficial events.
 
 Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
@@ -100,5 +102,5 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTIwNzcyNiwxMDA3ODgwMzI1XX0=
+eyJoaXN0b3J5IjpbMTc3NzY2MDEzNSwxMDA3ODgwMzI1XX0=
 -->
