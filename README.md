@@ -17,6 +17,9 @@ No changes are final until approved by the active Organiser Staff. It should be 
 As well as real life events we also run an online forum. Online activity will probably have a different set of rules, but we will try to follow these rules there unless that is impossible. 
 
 It should be noted that games players are often known for examining rules in detail and finding loopholes. This should be discouraged and breaching the spirit of the code of conduct will be interpreted as breaching the rules themselves. 
+
+ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTI1MTM5N119
+eyJoaXN0b3J5IjpbLTExMDIzNDM4OV19
 -->
