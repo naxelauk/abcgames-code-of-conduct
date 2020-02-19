@@ -1,10 +1,12 @@
 # Attendee Procedure For Reporting Code of Conduct Incidents
 
-**If you believe someone is in physical danger**, consult with a volunteer or staff member for the appropriate crisis number, non-emergency number, or police number.
+**If you believe someone is in physical danger**, consult with an event organiser for the appropriate crisis number, non-emergency number, or police number.
+
+*TODO: Insert Standard UK numbers in here*
 
 If you believe someone has violated the [ABC Games Code of Conduct](https://github.com/naxelauk/abcgames-code-of-conduct/code_of_conduct.md), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-During the conference you can make a report:
+During the event you can make a report:
 
   - To a trained incident responder, who will be wearing brightly colored shirts.
   - Email **<pycon-us-report@python.org>**
@@ -77,5 +79,5 @@ Should two out of the three lead incident responders need to recuse themselves, 
 
 This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0) and has been updated by [Otter Tech](https://otter.technology/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNzMwMTMxXX0=
+eyJoaXN0b3J5IjpbLTE4NjE2NTYxMTUsNjcyNzMwMTMxXX0=
 -->
