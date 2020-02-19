@@ -1,6 +1,7 @@
 # Code of Conduct
 
-PyCon US is a community conference intended for networking and collaboration in the developer community.
+PyCon USABC Games is a community conference intended for networking and collaboration in the developerevent held 
+ community.
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by the Python Software Foundation or not.
 
@@ -98,3 +99,6 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
 The PyCon Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAwNzg4MDMyNV19
+-->
