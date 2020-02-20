@@ -2,7 +2,7 @@
 
 ABC Games is a community event held approximately monthly in London. The main activity at our events are board games supplied and played by attendees. The attendees self identify as from the London FL community. Merely being a board games player in London does not make you part of our community.
 
-We value the participation of each member of the ABC Games community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout our events, whether officially run by the ABC active organisers or not.
+We value the participation of each member of the ABC Games community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout our events~~, whether officially run by the ABC active organisers or not~~.
 
 To make clear what is expected, all staff, attendees, organisers, and volunteers at any ABC Games event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event.
 
@@ -31,16 +31,10 @@ Examples of unacceptable behaviour by participants include:
 - Excessive swearing
 - Unwelcome sexual attention or advances
 - Unwelcome physical contact
-- Sustained disruption games, such as caused by excessive noise
-~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~
+- Sustained disruption 
+~~- Other conduct that is inappropriate for a professional audience including people of many different backgrounds~~ *ToDo: Reword this*
 
-*Several items above are struck out because they did not seem appropriate for our community.* We **do** allow sexual language and imagery so long as it is appropriate and the recipients consent to it. 
-
-
-It should be noted that physical contact or sexual attention is allowable behaviour but only when not unwelcome. If there is any doubt then you should determine this first. 
-
-It should be noted that in the middle of a game people cannot easily walk away so attendees should err on the side of caution.
-
+*Several items above are struck out because they did not seem appropriate for our community. They will be entirely removed in a future version* 
 
 Participants asked to stop any inappropriate behaviour are expected to comply immediately.
 
@@ -50,13 +44,13 @@ Thank you for helping make this a welcoming, friendly event for all.
 
 ### Age Policy
 
-Attendees are expected to be above the age of consent. 
+Attendees are expected to be above the age of consent and above the age for purchasing alcohol.
 
-However since most events take place in venues serving alcohol attendees are **also** expected to be of an age which allows them to buy alcohol. 
+Although the organisers currently do not ask for ID or proof of age the venue might do so. Attendees should be prepared to prove to the venue that they can legally buy alcohol even if they do not wish to. This is to comply with UK licensing laws.
 
-If this is not the case then please contact the organisers in advance to discuss their special case. 
+### Photography Policy
 
-Although the organisers currently do not ask for ID or proof of age the venue might do so, and attendees should be prepared to prove they can buy alcohol. 
+Photographs at our events are not allowed unless permission is granted from everyone in the photo. 
 
 ### Weapons Policy
 
@@ -76,11 +70,11 @@ All attendees are subject to the Code of Conduct. This includes ABC Games organi
 
 ~~Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.~~
 
-Text struck out was relevant for the original text as a professional conference but is not necessary for us. 
+*Text struck out was relevant for the original text as a professional conference but is not necessary for us.*
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct during an ABC Games event, or have any other concerns, please contact an organiser immediately. One or two of these people should have introduced themselves to you on arrival. If you are not aware of who these people are then please ask a fellow attendee. 
+If you believe that someone is violating the code of conduct during an ABC Games event, or have any other concerns, please contact an organiser immediately. One these people should have introduced themselves to you on arrival. If you are not aware of who these people are then please ask a fellow attendee. 
 
 If the event has finished and it is not possible to speak to an organiser in person then please message one of the organisers through the FL community. 
 
@@ -91,6 +85,7 @@ If the event has finished and it is not possible to speak to an organiser in per
 [Attendee Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/Attendee Procedure for incident handling.md)
 [Staff Procedure for incident handling](https://github.com/naxelauk/abcgames-code-of-conduct/Staff Procedure for incident handling.md)
 
+*URLS may change*
 ## License
 
 This Code of Conduct was forked from the PyCon US Code of Conduct which itself was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero license.
