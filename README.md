@@ -1,7 +1,7 @@
 ABC Games Code of Conduct
 =======================
 
-This repository holds the canonical version of the ABC Games Code of Conduct.
+This repository holds the canonical version of the ABC Games Code of Conduct. CURRENTLY DRAFT STATUS. 
 
  - A code of conduct for attendees and staff to read and follow
  - A set of procedures for organising staff to read and follow
